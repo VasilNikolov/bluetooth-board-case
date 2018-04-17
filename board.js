@@ -26,4 +26,10 @@ const board = {
             left: 3.6
         }
     }
-}
+};
+
+const case = {
+    wallThickness: 2,
+    usbGapHeight: 4.9,
+    audioJackHeight: 8.4
+};
