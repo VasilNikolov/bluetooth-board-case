@@ -28,7 +28,7 @@ const board = {
     }
 };
 
-const case = {
+const boardCase = {
     wallThickness: 2,
     usbGapHeight: 4.9,
     audioJackHeight: 8.4,
