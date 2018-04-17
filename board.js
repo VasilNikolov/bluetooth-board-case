@@ -31,5 +31,10 @@ const board = {
 const case = {
     wallThickness: 2,
     usbGapHeight: 4.9,
-    audioJackHeight: 8.4
+    audioJackHeight: 8.4,
+    boltType: "M2.5 , HEX CAP",
+    boltHeadDimensions: {
+        diameter: 5,
+        height: 1.7
+    }
 };
